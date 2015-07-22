@@ -9,8 +9,8 @@ Measure units are not clear: some of them are expressed as time while others are
 
 ##List of variables:
 
-subject: identification of the subject who carried out the experiment
 activity: activity performed by the subject
+subject: identification of the subject who carried out the experiment
 
 **Mean variables**
 time.body.accel.mean.X: average of body acceleration on the X axis measured as time
